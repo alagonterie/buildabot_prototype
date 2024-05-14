@@ -1,0 +1,429 @@
+bot test some crap
+sleep 1s
+press win
+sleep 2s
+pressmulti win 2 500ms
+
+bot clicky test bot
+sleep 2s
+hotkey win d
+loopstart 0 5
+img forza/fza_shortcut.png 500ms
+imgmulti test/hw_shortcut.png 500ms 2 2500ms
+loopend 0
+sleep 2s
+hotkey alt tab
+
+bot forza speed farm from desktop standard
+sleep 2s
+hotkey win d
+imgmulti forza/fza_shortcut.png 500ms 2 250ms
+ui forza/btn_enter_game.png 90s
+ui forza/btn_continue.png 30s
+ui forza/btn_esc.png 30s
+sleep 1s
+ui forza/btn_esc.png 30s
+sleep 10s
+press esc
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti left 4 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+loopstart 0 30
+ui forza/btn_creative_hub.png 30s
+ui forza/btn_eventlab.png 30s
+ui forza/btn_my_events.png 30s
+ui forza/btn_speed_farm_0.png 30s
+ui forza/btn_solo.png 30s
+ui forza/btn_benz.png 30s
+ui forza/btn_start_race.png 35s
+sleep 1s
+keydown w
+sleep 3n
+keyup w
+sleep 10s
+pressmulti enter 10 800ms
+sleep 15s
+press esc
+loopend 0
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti right 2 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+ui forza/btn_exit_desktop.png 30s
+ui forza/btn_yes.png 30s
+
+bot forza speed farm from desktop auto
+sleep 2s
+hotkey win d
+imgmulti forza/fza_shortcut.png 500ms 2 250ms
+ui forza/btn_enter_game.png 90s
+ui forza/btn_continue.png 30s
+ui forza/btn_esc.png 30s
+sleep 1s
+ui forza/btn_esc.png 30s
+sleep 10s
+press esc
+loopstart 0 30
+ui forza/btn_creative_hub.png 30s
+ui forza/btn_eventlab.png 30s
+ui forza/btn_my_events.png 30s
+ui forza/btn_speed_farm_0.png 30s
+ui forza/btn_solo.png 30s
+ui forza/btn_benz.png 30s
+ui forza/btn_start_race.png 35s
+sleep 1s
+keydown w
+sleep 3n
+keyup w
+sleep 10s
+pressmulti enter 10 800ms
+sleep 15s
+press esc
+loopend 0
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti right 2 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+ui forza/btn_exit_desktop.png 30s
+ui forza/btn_yes.png 30s
+
+bot forza speed farm from game standard
+sleep 5s
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti left 4 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+loopstart 0 30
+ui forza/btn_creative_hub.png 30s
+ui forza/btn_eventlab.png 30s
+ui forza/btn_my_events.png 30s
+ui forza/btn_speed_farm_0.png 30s
+ui forza/btn_solo.png 30s
+ui forza/btn_benz.png 30s
+ui forza/btn_start_race.png 35s
+sleep 1s
+keydown w
+sleep 3n
+keyup w
+sleep 10s
+pressmulti enter 10 800ms
+sleep 15s
+press esc
+loopend 0
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti right 2 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+ui forza/btn_exit_desktop.png 30s
+ui forza/btn_yes.png 30s
+
+bot forza speed farm from game auto
+sleep 5s
+loopstart 0 30
+ui forza/btn_creative_hub.png 30s
+ui forza/btn_eventlab.png 30s
+ui forza/btn_my_events.png 30s
+ui forza/btn_speed_farm_0.png 30s
+ui forza/btn_solo.png 30s
+ui forza/btn_benz.png 30s
+ui forza/btn_start_race.png 35s
+sleep 1s
+keydown w
+sleep 3n
+keyup w
+sleep 10s
+pressmulti enter 10 800ms
+sleep 15s
+press esc
+loopend 0
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti right 2 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+ui forza/btn_exit_desktop.png 30s
+ui forza/btn_yes.png 30s
+
+bot forza mk sp farm from game auto
+sleep 5s
+loopstart 0 60
+ui forza/btn_creative_hub.png 30s
+ui forza/btn_eventlab.png 30s
+ui forza/btn_event_blueprints.png 30s
+imgmulti forza/btn_prev_page.png 30s 2 800ms
+ui forza/btn_mk_sp_farm.png 30s
+ui forza/btn_solo.png 30s
+ui forza/btn_lambo.png 30s
+ui forza/btn_start_race.png 35s
+sleep 5s
+keydown w
+sleep 35s
+keyup w
+sleep 8s
+pressmulti enter 10 800ms
+sleep 8s
+press esc
+loopend 0
+ui forza/btn_settings.png 30s
+ui forza/btn_difficulty.png 30s
+ui forza/btn_steering.png 30s
+pressmulti right 2 500ms
+ui forza/btn_esc.png 30s
+sleep 500ms
+ui forza/btn_save_and_continue.png 30s
+sleep 500ms
+ui forza/btn_esc.png 30s
+ui forza/btn_exit_desktop.png 30syy
+ui forza/btn_yes.png 30s
+
+bot sp spend cayman
+sleep 5s
+loopstart 0 100
+ui forza/btn_cars.png 30s
+ui forza/btn_car_collection.png 30s
+sleep 1500ms
+pressmulti down 2 500ms
+pressmulti right 3 500ms
+loopstart 1 4
+sleep 1500ms
+press y
+sleep 1500ms
+press enter
+loopend 1
+sleep 1500ms
+press esc
+ui forza/btn_change_car.png 30s
+sleep 1500ms
+press x
+pressmulti down 6 500ms
+sleep 1500ms
+press enter
+sleep 1500ms
+press left
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 8s
+press esc
+ui forza/btn_cars.png 30s
+ui forza/btn_car_mastery.png 30s
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 2s
+press enter
+sleep 6s
+press enter
+loopstart 2 3
+sleep 2s
+pressmulti down 3 500ms
+sleep 1s
+press enter
+loopend 2
+sleep 1500ms
+press esc
+ui forza/btn_change_car.png 30s
+sleep 1500ms
+press x
+pressmulti down 6 500ms
+sleep 1500ms
+press enter
+sleep 1500ms
+press down
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 8s
+press esc
+ui forza/btn_cars.png 30s
+ui forza/btn_car_mastery.png 30s
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 2s
+press enter
+sleep 6s
+press enter
+loopstart 3 3
+sleep 2s
+pressmulti down 3 500ms
+sleep 1s
+press enter
+loopend 3
+sleep 1500ms
+press esc
+ui forza/btn_change_car.png 30s
+sleep 1500ms
+press x
+pressmulti down 6 500ms
+sleep 1500ms
+press enter
+sleep 1500ms
+press left
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 8s
+press esc
+ui forza/btn_cars.png 30s
+ui forza/btn_car_mastery.png 30s
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 2s
+press enter
+sleep 6s
+press enter
+loopstart 4 3
+sleep 2s
+pressmulti down 3 500ms
+sleep 1s
+press enter
+loopend 4
+sleep 1500ms
+press esc
+ui forza/btn_change_car.png 30s
+sleep 1500ms
+press x
+pressmulti down 6 500ms
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 1500ms
+press enter
+sleep 8s
+press esc
+ui forza/btn_cars.png 30s
+ui forza/btn_car_mastery.png 30s
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press right
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 1500ms
+press up
+sleep 1500ms
+press enter
+sleep 2s
+press enter
+sleep 6s
+press enter
+loopstart 5 3
+sleep 2s
+pressmulti down 3 500ms
+sleep 1s
+press enter
+loopend 5
+sleep 1500ms
+press esc
+ui forza/btn_change_car.png 30s
+sleep 1500ms
+press x
+pressmulti down 6 500ms
+sleep 1500ms
+press enter
+sleep 1500ms
+press backspace
+sleep 1500ms
+pressmulti enter 5 2s
+sleep 8s
+pressmulti esc 3 2s
+loopend 0
